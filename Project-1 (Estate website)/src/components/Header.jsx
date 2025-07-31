@@ -1,11 +1,9 @@
 import Navbar from './Navbar'
 import { motion } from "motion/react"
-import headerImg from '../../public/header_img.png'
-
 
 const Header = () => {
     return (
-        <section id='Home' className='min-h-screen overflow-x-hidden w-full bg-cover bg-center flex items-center justify-center text-white' style={{backgroundImage:headerImg}}>
+        <section id='Home' className='min-h-screen overflow-x-hidden w-full bg-cover bg-center flex items-center justify-center text-white' style={{backgroundImage: "url('header_img.png')"}}>
             <Navbar/>
 
             <div className="px-32 max-md:px-10 py-14 flex items-center justify-center text-center mt-12 ">
