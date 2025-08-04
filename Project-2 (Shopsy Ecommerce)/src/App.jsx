@@ -10,7 +10,7 @@ import 'aos/dist/aos.css';
 import TopProducts from './components/TopProducts/TopProducts';
 import Banner from './components/Banner/Banner';
 import Subscripe from './components/Subscripe/Subscripe';
-import Testimonial from './components/Testimonial/testimonial';
+import Testimonial from './components/Testimonial/Testimonial';
 import Footer from './components/Footer/Footer';
 
 function App() {
