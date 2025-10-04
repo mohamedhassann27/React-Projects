@@ -1,0 +1,14 @@
+{
+    "logo": "Arround the world",
+    "search": "Search for a country...",
+    "select":{
+        "1": "All",
+        "2": "Africa",
+        "3": "Americas",
+        "4": "Asia",
+        "5": "Europe",
+        "6": "Oceania"
+    },
+    "english": "English (US)",
+    "arabic": "Arabic (Ar)"
+}
